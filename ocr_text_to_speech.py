@@ -14,12 +14,6 @@ from pytesseract import image_to_string
 from gtts import gTTS
 import os
 
-#pytesseract.pytesseract.TesseractNotFoundError: tesseract is not installed or it's not in your path
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
-
-#tessdata_dir_config = r'--tessdata-dir "<replace_with_your_tessdata_dir_path>"'
-tessdata_dir_config = r'--tessdata-dir "C:\Program Files\Tesseract-OCR\tessdata"'
-
 
 
 class RecordVideo(QtCore.QObject):
