@@ -1,22 +1,22 @@
-Jour;Produit;Prix unitaire;Quantite vendue;Prix total;Vendeur(se)
-Vendredi;A1;2,00 dh;69;138,00 dh;KAO
-Vendredi;A2;3,00 dh;245;735,00 dh;KAO
-Vendredi;A3;4,00 dh;79;316,00 dh;Aigpt
-Vendredi;A3;4,00 dh;14;56,00 dh;KAO
-Vendredi;A3;4,00 dh;25;100,00 dh;Kalao
-Vendredi;A4;5,00 dh;134;670,00 dh;Aigpt
-Vendredi;A5;6,00 dh;140;840,00 dh;Kalao
-Samedi;A2;3,00 dh;145;435,00 dh;Kalao
-Samedi;A3;4,00 dh;23;92,00 dh;Kalao
-Samedi;A3;4,00 dh;35;140,00 dh;KAO
-Samedi;A5;6,00 dh;230;1 380,00 dh;Aigpt
-Samedi;A5;6,00 dh;121;726,00 dh;Kalao
-Samedi;A5;6,00 dh;145;870,00 dh;KAO
-Dimanche;A1;2,00 dh;23;46,00 dh;KAO
-Dimanche;A1;2,00 dh;75;150,00 dh;Aigpt
-Dimanche;A2;3,00 dh;87;261,00 dh;Kalao
-Dimanche;A3;4,00 dh;11;44,00 dh;Aigpt
-Dimanche;A3;4,00 dh;6;24,00 dh;Kalao
-Dimanche;A3;4,00 dh;45;180,00 dh;KAO
-Dimanche;A5;6,00 dh;104;624,00 dh;Aigpt
-Dimanche;A5;6,00 dh;56;336,00 dh;KAO
+Jour;Produit;Prix unitaire(dh);Quantite vendue;Prix total(dh);Vendeur(se)
+Vendredi;A1;2,00;69;138,00;KAO
+Vendredi;A2;3,00;245;735,00;KAO
+Vendredi;A3;4,00;79;316,00;Aigpt
+Vendredi;A3;4,00;14;56,00;KAO
+Vendredi;A3;4,00;25;100,00;Kalao
+Vendredi;A4;5,00;134;670,00;Aigpt
+Vendredi;A5;6,00;140;840,00;Kalao
+Samedi;A2;3,00;145;435,00;Kalao
+Samedi;A3;4,00;23;92,00;Kalao
+Samedi;A3;4,00;35;140,00;KAO
+Samedi;A5;6,00;230;1 380,00;Aigpt
+Samedi;A5;6,00;121;726,00;Kalao
+Samedi;A5;6,00;145;870,00;KAO
+Dimanche;A1;2,00;23;46,00;KAO
+Dimanche;A1;2,00;75;150,00;Aigpt
+Dimanche;A2;3,00;87;261,00;Kalao
+Dimanche;A3;4,00;11;44,00;Aigpt
+Dimanche;A3;4,00;6;24,00;Kalao
+Dimanche;A3;4,00;45;180,00;KAO
+Dimanche;A5;6,00;104;624,00;Aigpt
+Dimanche;A5;6,00;56;336,00;KAO
